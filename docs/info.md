@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using DR flip flops and other basic logic, the device will count from binary 0000 up to binary 1111. The output pins will be pulled high when active.
 
 ## How to test
 
-Explain how to use your project
+Connect a de-bounced button to input pin 0, and each time it's pulled high the binary output will incrament. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A button and 4 LEDs are reccomended.
